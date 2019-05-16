@@ -1,0 +1,78 @@
+arkadaşlar 
+
+
+bash calıstırın.sh   entırlıcaksınız
+
+
+dosyalar indirecek rahat olun
+
+ 
+ 
+Arkadaşlar termux depolama izni istiyecek onaylayın eğer daha önceden izin verdiyseniz sorun yok
+
+
+
+
+dosya içine girmek için    cd dosya ismi
+
+dosyadan çıkmak ana dizine gider  cd 
+
+dosyaları görmek için     ls
+
+dosyaları silmek için rm dosya adı    
+
+klasör sileme rm -rf klasör adı
+
+
+teşekkürler <3
+
+ÇALIŞTIRMA 
+
+cd LITESCRIPT
+
+ls
+
+python2 LITESCRIPT.py
+
+1.  tim veya kendi kullanıcı adın
+
+2.  sitedeki yazacak ilk yazı
+
+3.  site arkaplan rengi örnek black
+
+4.  resmin üzerine yazılacak yazı
+
+5.  www.hızlıresim.com dan resim yükleyin ve .png uzantılı resmi kopyalayın terminaler yapıştırın olduğu gibi
+
+6. yazı rengi örnek green yazın
+
+7. yazı girilecek 
+
+8. en altta kayan yazı var buraya siteye söylmek veya su sebebten hacklendiğini yazabilirsiniz
+
+
+
+dosya içine girmek için    cd dosya ismi
+
+dosyadan çıkmak ana dizine gider  cd 
+
+dosyaları görmek için     ls
+
+dosyaları silmek için rm dosya adı    
+
+klasör sileme rm -rf klasör adı
+
+
+
+indexi oluşturduktan sonra 
+
+termuxtan hafıza kartına taşımak için 
+
+mv  hasilsc.html /sdcard
+
+
+kopyalamak için ise 
+
+cp hasilsc.html /sdcard
+
+anlatım bana aittir konu üstüme aittir teşekkürler
